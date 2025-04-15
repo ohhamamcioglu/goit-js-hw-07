@@ -21,6 +21,7 @@ form.addEventListener("submit", (event) => {
   };
 
   console.log(formData);
+  alert("Form submitted successfully!");
 
   form.reset();
 });

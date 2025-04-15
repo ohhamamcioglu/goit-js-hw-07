@@ -10,5 +10,5 @@ categories.forEach(category => {
   const itemsCount = category.querySelectorAll('ul li').length;
 
   console.log(`Category: ${title}`);
-  console.log(`Elements: ${itemsCount}`);
+  console.lotitleg(`Elements: ${itemsCount}`);
 });
